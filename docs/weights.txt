@@ -1,0 +1,15 @@
+The density of 52100 Chrome steel is 0.283 pounds per cubic inch or, 0.00785 Kg Cm³  ( 7.85 g/ cm³ ). 
+
+1" diameter ball has 0.52380 cubic inches in it.
+
+Therefore a 1" ball weighs 0.1482354 lbs, however the "Steel Ball Weights Chart" on your site reports 0.1484922158 a differnence of 0.0002568158 lbs
+
+
+
+1" ball 
+===================================
+2.3758754530 oz per ball
+
+how many balls per oz => X * 2.3758754530 = 1
+
+

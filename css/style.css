@@ -1,0 +1,18 @@
+    * { font-family: arial, helvetica, sans-serif; }
+    select, option  { font-family:"Courier New", Courier, monospace }
+    .materials { border: 0px solid red; padding: 2px; width: 180px; float: left  }
+    .materials .selected { background-color: aquamarine }
+    .materials div { border: 0px solid blue; height: 30px; padding: 2px;  }
+    .materials span { display: inline-block; position: relative; top: -5px; line-height: normal; }
+    .materials img { position: relative; top: 2px; padding-right: 5px }
+    .materials a { text-decoration: none; }
+    .materials a:hover { text-decoration: underline; }
+
+    input[readonly] { font-family: arial, helvetica, sans-serif; font-size: 12pt; }
+
+    th { background: blue; color: white; height: 40px; padding: 5px}
+    td { padding-left: 3px; padding-right: 3px; }
+    tr:hover td { background: lightyellow }
+
+    .table1 tr:hover td { background: none }
+
